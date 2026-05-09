@@ -1,6 +1,6 @@
 # Revenue Reconciliation Monitor
 
-**Crystal Olisa · Operations Generalist**
+**Crystal Olisa · Operations Generalist · [Live Dashboard Link](https://crystalolisa.github.io/revenue-reconciliation-monitor/dashboard/)**
 
 ---
 
