@@ -160,7 +160,7 @@ revenue-reconciliation-monitor/
 
 ## Notebook
 
-[Phase 3 Analysis Notebook](https://nbviewer.org/github/crystalolisa/revenue-reconciliation-monitor/blob/main/notebooks/revenue_reconciliation_monitor.ipynb)
+[Phase 3 Analysis Notebook](https://crystalolisa.github.io/revenue-reconciliation-monitor/notebooks/revenue_reconciliation_monitor.html)
 
 ---
 
